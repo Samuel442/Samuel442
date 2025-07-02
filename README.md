@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Samuel Henrique
+# 👋 Olá! Eu sou o Samuel Henrique Lima da Silva
 
 🎓 Engenheiro de Controle e Automação pela UFU  
 🚀 Apaixonado por dados, automação e digitalização com foco em inovação  
@@ -48,20 +48,11 @@ Na eSolvere Tecnologia, atuei desde hardware até indicadores como OEE, MTTR e M
 
 ---
 
-## 📌 Projetos em destaque
-
-🔹 [Dashboard de Eventos Corporativos](https://github.com/Samuel442/SQL/tree/main/Eventos_Corporativos)  
-🔹 [Análise de dados da Netflix](https://github.com/Samuel442/SQL/tree/main/Projeto_Completo_PBI)  
-🔹 [Cálculo de Cinemática Inversa de Robô UR5 – MATLAB](https://github.com/Samuel442/Matlab/tree/main/UR5)  
-🔹 [Automação de Checklists com Power Apps](em breve…)
-
----
-
 ## 📫 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-henrique-lima-da-silva)
-- [Portfólio (OnRender)](https://seu-link-aqui.com)
-- ✉️ samuel.seu@email.com
+- [Portfólio](https://meu-portifolio-t6rv.onrender.com/)
+- ✉️ samuelhenrique10@hotmail.com
 
 ---
 
