@@ -1,7 +1,7 @@
-# 👋 Olá! Eu sou o Samuel Henrique Lima da Silva
+# 👋 Olá! Sou o Samuel Henrique Lima da Silva
 
 🎓 Engenheiro de Controle e Automação pela UFU  
-🚀 Apaixonado por dados, automação e digitalização com foco em inovação  
+🚀 Apaixonado por dados, automação e IA com foco em inovação  
 📍 Uberlândia, MG
 
 ---
@@ -10,28 +10,17 @@
 
 Desde que entrei na universidade, sempre tive curiosidade por entender como os dados podem transformar decisões. Essa curiosidade virou prática.
 
-Comecei com automação, fui para o chão de fábrica, programei firmware, simulei robôs com o CoppeliaSim, e, quando apliquei dados em projetos práticos, tudo fez sentido.
+Comecei com automação, fui para o chão de fábrica, programei firmware, simulei robôs no TCC, e, quando apliquei dados em projetos práticos, tudo fez sentido.
 
-Hoje, estou construindo dashboards, criando automações com Power Platform e desenvolvendo soluções que ajudam empresas a enxergar seus próprios processos com mais clareza.
-
----
-
-## 📊 Minhas ferramentas do dia a dia
-
-- **Power BI** (relatórios e dashboards interativos)
-- **SQL Server** (consultas, modelagem e ETL)
-- **Power Apps & Power Automate** (soluções digitais)
-- **Excel Avançado & Macros**
-- **Python**
-- **MATLAB & LaTeX** (projetos acadêmicos)
+Hoje, estou construindo dashboards, criando automações e desenvolvendo soluções que ajudam empresas a enxergar seus próprios processos com mais clareza.
 
 ---
 
-## 🧠 Em constante aprendizado
+## 📊 Meus projetos atualmente seguem as linhas de
 
-- 📘 Finalizei o curso de **SQL Server + Power BI** (Udemy, 2025)
-- 🧠 Participei da imersão em **Inteligência Artificial – Cruzeiro do Sul**
-- 🔍 Sempre buscando oportunidades reais de aplicar o que aprendo
+- **Análise de dados e criação de Dashboards** 
+- **SQL** 
+- **Utilização de IA para otimização e automação dos processos** 
 
 ---
 
