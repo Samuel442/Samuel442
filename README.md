@@ -1,4 +1,4 @@
-# 👋 Olá! Sou o Samuel Henrique Lima da Silva
+# 👋 Olá! Sou Samuel Henrique Lima da Silva
 
 🎓 Engenheiro de Controle e Automação pela UFU  
 🚀 Apaixonado por dados, automação e IA com foco em inovação  
@@ -10,7 +10,7 @@
 
 Desde que entrei na universidade, sempre tive curiosidade por entender como os dados podem transformar decisões. Essa curiosidade virou prática.
 
-Comecei com automação, fui para o chão de fábrica, programei firmware, simulei robôs no TCC, e, quando apliquei dados em projetos práticos, tudo fez sentido.
+Comecei com automação, fui para o chão de fábrica, programei firmware, simulei o robô UR5 no TCC, e, quando apliquei dados em projetos práticos, tudo fez sentido.
 
 Hoje, estou construindo dashboards, criando automações e desenvolvendo soluções que ajudam empresas a enxergar seus próprios processos com mais clareza.
 
@@ -19,21 +19,21 @@ Hoje, estou construindo dashboards, criando automações e desenvolvendo soluç�
 ## 📊 Meus projetos atualmente seguem as linhas de
 
 - **Análise de dados e criação de Dashboards** 
-- **SQL** 
+- **Bancos de Dados** 
 - **Utilização de IA para otimização e automação dos processos** 
 
 ---
 
 ## 🧪 Experiência prática
 
-**Estagiário de BI na Cargill**  
-Criei dashboards para controle de produtos químicos, resíduos e eficiência da caldeira, além de automatizações com Power Platform e apresentações mensais de dados.
-
 **Pesquisador no LASEC – UFU**  
-Trabalhei com modelagem matemática, cinemática inversa e simulação de robôs.
+Trabalhei com modelagem matemática do robô, cinemática inversa, simulação de robôs e a biblioteca 3D Three js juntamente com Node js.
 
 **Experiência em suporte técnico e desenvolvimento embarcado**  
 Na eSolvere Tecnologia, atuei desde hardware até indicadores como OEE, MTTR e MTBF.
+
+**Estagiário de BI na Cargill**  
+Criei dashboards para controle de produtos químicos, resíduos e eficiência da caldeira, além de automatizações com Power Platform e apresentações mensais de dados.
 
 ---
 
