@@ -1,57 +1,113 @@
 # 👋 Olá! Sou Samuel Henrique Lima da Silva
 
-🎓 Engenheiro de Controle e Automação pela UFU  
-🚀 Apaixonado por dados, automação e IA com foco em inovação  
-📍 Uberlândia, MG
+🎓 **Engenheiro de Controle e Automação – UFU**  
+📊 **Data Analyst | BI & SQL | Python | Power Platform | Applied AI**  
+🚀 **Profissional focado em transformar dados em decisões, automação em eficiência e IA em valor para o negócio.**  
+📍 **Uberlândia – MG | Brasil**
 
----
+## 💡 Sobre mim
 
-## 💡 Minha Jornada
+Sou um profissional que une engenharia, dados, automação e inteligência artificial para criar soluções reais, escaláveis e orientadas a impacto.  
+Atuo desenvolvendo dashboards, pipelines, fluxos automatizados, modelos analíticos e integrações entre sistemas — sempre com foco em melhorar processos, reduzir retrabalho e apoiar decisões com dados confiáveis.
 
-Desde que entrei na universidade, sempre tive curiosidade por entender como os dados podem transformar decisões. Essa curiosidade virou prática.
+Tenho experiência prática tanto em ambientes industriais críticos quanto em startups de tecnologia, o que me deu visão de negócio, agilidade e capacidade de entregar resultados consistentes.
 
-Comecei com automação, fui para o chão de fábrica, programei firmware, simulei o robô UR5 no TCC, e, quando apliquei dados em projetos práticos, tudo fez sentido.
+## 🚀 O que eu faço
 
-Hoje, estou construindo dashboards, criando automações e desenvolvendo soluções que ajudam empresas a enxergar seus próprios processos com mais clareza.
+✔️ **Análise exploratória, modelagem e transformação de dados**  
+✔️ **Construção de dashboards e KPIs (Power BI, Looker Studio)**  
+✔️ **Desenvolvimento de ETLs e automações (Python, APIs, Power Automate)**  
+✔️ **Integração de sistemas, bancos de dados e pipelines**  
+✔️ **Aplicação prática de IA para produtividade, insights e otimização**  
+✔️ **Desenvolvimento de aplicações internas com Power Apps**  
+✔️ **Documentação técnica e comunicação de resultados**
 
----
+## 🛠 Tech Stack
 
-## 📊 Meus projetos atualmente seguem as linhas de
+### **Programação & Dados**
+- **Python** (Pandas, NumPy, Requests, Matplotlib, Plotly)  
+- **SQL** (modelagem, queries, normalização)  
+- **APIs, ETL e automações**
 
-- **Análise de dados e criação de Dashboards** 
-- **Bancos de Dados** 
-- **Utilização de IA para otimização e automação dos processos** 
+### **Business Intelligence**
+- **Power BI** (DAX, Power Query)  
+- **Looker Studio**  
+- **Data Storytelling e KPI Design**
 
----
-## 🏅 Minhas Certificações (Oracle)
+### **Automação & Integrações**
+- **Power Automate**  
+- **Power Apps**  
+- **RPA**  
+- **Git e versionamento**  
+- **Excel avançado**
 
-<p align="center">
-  <img src="data.png" width="220" alt="Oracle Certification 1">
-  <img src="fusion.png" width="220" alt="Oracle Certification 2">
-  <img src="multcloud.png" width="220" alt="Oracle Certification 3">
-  <img src="oci_ia.png" width="220" alt="Oracle Certification 4">
-</p>
+### **Cloud & Infra**
+- **Oracle Cloud OCI**  
+- **Supabase / Neon**  
+- **Noções de CI/CD**
 
-## 🧪 Experiência prática
+## 🧪 Experiência Prática
 
-**Pesquisador no LASEC – UFU**  
-Trabalhei com modelagem matemática do robô, cinemática inversa, simulação de robôs e a biblioteca 3D Three js juntamente com Node js.
+### 🔹 Data Analytics – Cargill (Industrial / On-Site)
 
-**Experiência em suporte técnico e desenvolvimento embarcado**  
-Na eSolvere Tecnologia, atuei desde hardware até indicadores como OEE, MTTR e MTBF.
+Criação de dashboards operacionais, análises para eficiência industrial, automações de fluxos operacionais e digitalização de processos críticos usando Power Platform.
 
-**Estagiário de BI na Cargill**  
-Criei dashboards para controle de produtos químicos, resíduos e eficiência da caldeira, além de automatizações com Power Platform e apresentações mensais de dados.
+**Principais entregas:**
+- Dashboards para caldeiras, químicos, resíduos e performance.  
+- Apps operacionais para checklist, inventário e registro de equipamentos.  
+- Automatização de relatórios e consolidação de KPIs.  
+- Apresentações mensais de dados para liderança.
 
----
+### 🔹 Pesquisador – LASEC / UFU (Automação & Robótica)
 
-## 📫 Vamos nos conectar?
+Modelagem matemática, simulação e cinemática inversa aplicada a robôs industriais (UR5), utilizando Python, MATLAB, CoppeliaSim e Three.js.
 
-- [LinkedIn](https://www.linkedin.com/in/samuel-henrique-lima-da-silva)
-- [Portfólio](https://meu-portifolio-t6rv.onrender.com/)
-- ✉️ samuelhenrique10@hotmail.com
+**Projetos:**
+- Cinemática direta e inversa com métodos numéricos.  
+- Simulação 3D e validação computacional.  
+- Documentação técnica em LaTeX.
 
----
+### 🔹 eSolvere Tecnologia – Automação & Dados
 
-⭐ Sempre buscando transformar dados em decisões.  
-🔍 Aberto a oportunidades na área de Dados, BI e RPA.
+Atuação híbrida envolvendo hardware, software e dados.
+
+**Atividades:**
+- Monitoramento de OEE, MTBF e MTTR  
+- Dashboards de performance  
+- Integrações e coleta automática de dados  
+- Apoio à digitalização industrial
+
+## 🏅 Certificações (Oracle + Alura)
+
+<div align="center">
+  <img src="data.png" width="200">
+  <img src="fusion.png" width="200">
+  <img src="multcloud.png" width="200">
+  <img src="oci_ia.png" width="200">
+</div>
+
++50 certificações, incluindo:
+
+- **Oracle Cloud**  
+- **Applied AI for Data**  
+- **Python Data Visualization**  
+- **SQL & Data Modeling**  
+- **Power BI & Analytics**
+
+## 📊 Projetos (Data, BI e Automação)
+
+- Painéis completos de eficiência industrial (**Power BI**)  
+- Automação de workflows com **Power Automate**  
+- Pipelines de dados e integrações via **API**  
+- Aplicativos operacionais via **Power Apps**  
+- Dashboards com **Python** (Matplotlib, Plotly)  
+- Simulação 3D e robótica com **Python + CoppeliaSim**  
+- Aplicações web para portfólio com **Python / JS**
+
+📌 **Portfólio completo:** https://meu-portifolio-t6rv.onrender.com/
+
+## 🤝 Vamos nos conectar?
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/samuel-henrique-lima-da-silva  
+🌐 **Portfólio:** https://meu-portifolio-t6rv.onrender.com/  
+✉️ **Email:** samuelhenrique10@hotmail.com
