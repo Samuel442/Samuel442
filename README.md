@@ -26,12 +26,12 @@ Hoje, estou construindo dashboards, criando automações e desenvolvendo soluç�
 ## 🏅 Minhas Certificações (Oracle)
 
 <p align="center">
-  <img src="OCI25DCFAV2.jpg" width="300" alt="Oracle Certification 1">
-  <img src="oracle_python.jpg" width="300" alt="Oracle Certification 2">
-  <img src="oracle_data.jpg" width="300" alt="Oracle Certification 3">
-  <img src="oracle_cloud.jpg" width="300" alt="Oracle Certification 4">
+  <img src="data.png" width="220" alt="Oracle Certification 1">
+  <img src="fusion.png" width="220" alt="Oracle Certification 2">
+  <img src="multcloud.png" width="220" alt="Oracle Certification 3">
+  <img src="oci_ia.png" width="220" alt="Oracle Certification 4">
 </p>
----
+
 ## 🧪 Experiência prática
 
 **Pesquisador no LASEC – UFU**  
