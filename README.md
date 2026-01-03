@@ -23,7 +23,15 @@ Hoje, estou construindo dashboards, criando automações e desenvolvendo soluç�
 - **Utilização de IA para otimização e automação dos processos** 
 
 ---
+## 🏅 Minhas Certificações (Oracle)
 
+<p align="center">
+  <img src="OCI25DCFAV2.jpg" width="300" alt="Oracle Certification 1">
+  <img src="oracle_python.jpg" width="300" alt="Oracle Certification 2">
+  <img src="oracle_data.jpg" width="300" alt="Oracle Certification 3">
+  <img src="oracle_cloud.jpg" width="300" alt="Oracle Certification 4">
+</p>
+---
 ## 🧪 Experiência prática
 
 **Pesquisador no LASEC – UFU**  
