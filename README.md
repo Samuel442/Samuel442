@@ -1,83 +1,83 @@
-# 👋 Olá! Sou Samuel Henrique Lima da Silva
+# 👋 Hello! I'm Samuel Henrique Lima da Silva
 
-🎓 **Engenheiro de Controle e Automação – UFU**  
+🎓 **Control and Automation Engineer – UFU**  
 📊 **Data Analyst | BI & SQL | Python | Power Platform | Applied AI**  
-🚀 **Profissional focado em transformar dados em decisões, automação em eficiência e IA em valor para o negócio.**  
-📍 **Uberlândia – MG | Brasil**
+🚀 **Focused on transforming data into decisions, automation into efficiency, and AI into business value.**  
+📍 **Uberlândia – MG | Brazil**
 
-## 💡 Sobre mim
+## 💡 About Me
 
-Sou um profissional que une engenharia, dados, automação e inteligência artificial para criar soluções reais, escaláveis e orientadas a impacto.  
-Atuo desenvolvendo dashboards, pipelines, fluxos automatizados, modelos analíticos e integrações entre sistemas — sempre com foco em melhorar processos, reduzir retrabalho e apoiar decisões com dados confiáveis.
+I am a professional who combines engineering, data, automation, and artificial intelligence to create real, scalable, and impact-driven solutions.  
+I work on building dashboards, data pipelines, automated workflows, analytical models, and system integrations — always aiming to improve processes, reduce rework, and support decision-making with reliable data.
 
-Tenho experiência prática tanto em ambientes industriais críticos quanto em startups de tecnologia, o que me deu visão de negócio, agilidade e capacidade de entregar resultados consistentes.
+I have hands-on experience both in critical industrial environments and in tech startups, which gave me business awareness, agility, and the ability to deliver consistent results.
 
-## 🚀 O que eu faço
+## 🚀 What I Do
 
-✔️ **Análise exploratória, modelagem e transformação de dados**  
-✔️ **Construção de dashboards e KPIs (Power BI, Looker Studio)**  
-✔️ **Desenvolvimento de ETLs e automações (Python, APIs, Power Automate)**  
-✔️ **Integração de sistemas, bancos de dados e pipelines**  
-✔️ **Aplicação prática de IA para produtividade, insights e otimização**  
-✔️ **Desenvolvimento de aplicações internas com Power Apps**  
-✔️ **Documentação técnica e comunicação de resultados**
+✔️ **Exploratory analysis, data modeling, and transformation**  
+✔️ **Dashboard and KPI development (Power BI, Looker Studio)**  
+✔️ **ETL development and automation (Python, APIs, Power Automate)**  
+✔️ **Systems, databases, and pipeline integrations**  
+✔️ **Practical AI applications for productivity, insights, and optimization**  
+✔️ **Internal app development with Power Apps**  
+✔️ **Technical documentation and results communication**
 
 ## 🛠 Tech Stack
 
-### **Programação & Dados**
+### **Programming & Data**
 - **Python** (Pandas, NumPy, Requests, Matplotlib, Plotly)  
-- **SQL** (modelagem, queries, normalização)  
-- **APIs, ETL e automações**
+- **SQL** (data modeling, queries, normalization)  
+- **APIs, ETL, and automation**
 
 ### **Business Intelligence**
 - **Power BI** (DAX, Power Query)  
 - **Looker Studio**  
-- **Data Storytelling e KPI Design**
+- **Data storytelling and KPI design**
 
-### **Automação & Integrações**
+### **Automation & Integrations**
 - **Power Automate**  
 - **Power Apps**  
 - **RPA**  
-- **Git e versionamento**  
-- **Excel avançado**
+- **Git and version control**  
+- **Advanced Excel**
 
-### **Cloud & Infra**
+### **Cloud & Infrastructure**
 - **Oracle Cloud OCI**  
 - **Supabase / Neon**  
-- **Noções de CI/CD**
+- **Basic CI/CD**
 
-## 🧪 Experiência Prática
+## 🧪 Practical Experience
 
 ### 🔹 Data Analytics – Cargill (Industrial / On-Site)
 
-Criação de dashboards operacionais, análises para eficiência industrial, automações de fluxos operacionais e digitalização de processos críticos usando Power Platform.
+Development of operational dashboards, industrial efficiency analyses, workflow automation, and digitization of critical processes using Power Platform.
 
-**Principais entregas:**
-- Dashboards para caldeiras, químicos, resíduos e performance.  
-- Apps operacionais para checklist, inventário e registro de equipamentos.  
-- Automatização de relatórios e consolidação de KPIs.  
-- Apresentações mensais de dados para liderança.
+**Key Deliveries:**
+- Dashboards for boilers, chemicals, waste, and performance  
+- Operational apps for checklists, inventory, and equipment registration  
+- Automated reporting and KPI consolidation  
+- Monthly data presentations to leadership
 
-### 🔹 Pesquisador – LASEC / UFU (Automação & Robótica)
+### 🔹 Researcher – LASEC / UFU (Automation & Robotics)
 
-Modelagem matemática, simulação e cinemática inversa aplicada a robôs industriais (UR5), utilizando Python, MATLAB, CoppeliaSim e Three.js.
+Mathematical modeling, simulation, and inverse kinematics applied to industrial robots (UR5), using Python, MATLAB, CoppeliaSim, and Three.js.
 
-**Projetos:**
-- Cinemática direta e inversa com métodos numéricos.  
-- Simulação 3D e validação computacional.  
-- Documentação técnica em LaTeX.
+**Projects:**
+- Forward and inverse kinematics using numerical methods  
+- 3D simulation and computational validation  
+- Technical documentation in LaTeX
 
-### 🔹 eSolvere Tecnologia – Automação & Dados
+### 🔹 eSolvere Tecnologia – Automation & Data
 
-Atuação híbrida envolvendo hardware, software e dados.
+Hybrid work involving hardware, software, and data.
 
-**Atividades:**
-- Monitoramento de OEE, MTBF e MTTR  
-- Dashboards de performance  
-- Integrações e coleta automática de dados  
-- Apoio à digitalização industrial
+**Activities:**
+- Monitoring of OEE, MTBF, and MTTR  
+- Performance dashboards  
+- Integrations and automatic data collection  
+- Support for industrial digitalization
 
-## 🏅 Certificações (Oracle + Alura)
+## 🏅 Certifications (Oracle + Alura)
 
 <div align="center">
   <img src="data.png" width="200">
@@ -86,7 +86,7 @@ Atuação híbrida envolvendo hardware, software e dados.
   <img src="oci_ia.png" width="200">
 </div>
 
-+50 certificações, incluindo:
+50+ certifications, including:
 
 - **Oracle Cloud**  
 - **Applied AI for Data**  
@@ -94,20 +94,20 @@ Atuação híbrida envolvendo hardware, software e dados.
 - **SQL & Data Modeling**  
 - **Power BI & Analytics**
 
-## 📊 Projetos (Data, BI e Automação)
+## 📊 Projects (Data, BI & Automation)
 
-- Painéis completos de eficiência industrial (**Power BI**)  
-- Automação de workflows com **Power Automate**  
-- Pipelines de dados e integrações via **API**  
-- Aplicativos operacionais via **Power Apps**  
-- Dashboards com **Python** (Matplotlib, Plotly)  
-- Simulação 3D e robótica com **Python + CoppeliaSim**  
-- Aplicações web para portfólio com **Python / JS**
+- Full industrial efficiency dashboards (**Power BI**)  
+- Workflow automation with **Power Automate**  
+- Data pipelines and API integrations  
+- Operational applications using **Power Apps**  
+- Dashboards with **Python** (Matplotlib, Plotly)  
+- 3D simulation and robotics using **Python + CoppeliaSim**  
+- Web applications for portfolio using **Python / JS**
 
-📌 **Portfólio completo:** https://meu-portifolio-t6rv.onrender.com/
+📌 **Full portfolio:** https://meu-portifolio-t6rv.onrender.com/
 
-## 🤝 Vamos nos conectar?
+## 🤝 Let's Connect
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/samuel-henrique-lima-da-silva  
-🌐 **Portfólio:** https://meu-portifolio-t6rv.onrender.com/  
+🌐 **Portfolio:** https://meu-portifolio-t6rv.onrender.com/  
 ✉️ **Email:** samuelhenrique10@hotmail.com
