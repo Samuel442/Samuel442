@@ -105,12 +105,12 @@ Relevant certifications in Data Analytics and Business Intelligence, including:
 - Data pipelines and API integrations for automated data collection  
 - Data analysis and visualization using Python (Pandas, Matplotlib)  
 
-📌 Full portfolio: https://meu-portifolio-t6rv.onrender.com/
+📌 Full portfolio: https://meu-site-murex-six.vercel.app/
 
 ---
 
 ## 🤝 Let's Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/samuel-henrique-lima-da-silva  
-🌐 Portfolio: https://meu-portifolio-t6rv.onrender.com/  
+🌐 Portfolio: https://meu-site-murex-six.vercel.app/  
 ✉️ Email: samuelhenrique10@hotmail.com
