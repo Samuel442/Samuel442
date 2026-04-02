@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Samuel Henrique Lima da Silva
 
 🎓 **Control and Automation Engineer – UFU**  
-📊 **Data Analyst | BI & SQL | Python | Power Platform | Applied AI**  
+📊 **Data Analyst | BI & SQL & ETL | Python | Power Platform**  
 🚀 **Focused on transforming data into decisions, automation into efficiency, and AI into business value.**  
 📍 **Uberlândia – MG | Brazil**
 
