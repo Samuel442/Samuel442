@@ -111,7 +111,7 @@ Relevant certifications in Data Analytics and Business Intelligence, including:
 
 ## 🤝 Let's Connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/samuel-henrique-lima-da-silva  
-🌐 Portfolio: https://meu-site-murex-six.vercel.app/ 
-🔗 All Links: https://my-linktree-ten-phi.vercel.app/
-✉️ Email: samuelhenrique10@hotmail.com/
+🔗 LinkedIn: [linkedin.com/in/samuel-henrique-lima-da-silva](https://www.linkedin.com/in/samuel-henrique-lima-da-silva)  
+🌐 Portfolio: [meu-site-murex-six.vercel.app](https://meu-site-murex-six.vercel.app/)  
+🔗 All Links: [my-linktree-ten-phi.vercel.app](https://my-linktree-ten-phi.vercel.app/)  
+✉️ Email: [samuelhenrique10@hotmail.com](mailto:samuelhenrique10@hotmail.com)
