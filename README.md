@@ -1,113 +1,116 @@
 # 👋 Hello! I'm Samuel Henrique Lima da Silva
 
-🎓 **Control and Automation Engineer – UFU**  
-📊 **Data Analyst | BI & SQL & ETL | Python | Power Platform**  
-🚀 **Focused on transforming data into decisions, automation into efficiency, and AI into business value.**  
-📍 **Uberlândia – MG | Brazil**
+🎓 Control and Automation Engineer – UFU  
+📊 Data Analyst | Power BI | SQL | Python | ETL  
+📍 Uberlândia – MG | Brazil  
+
+---
 
 ## 💡 About Me
 
-I am a professional who combines engineering, data, automation, and artificial intelligence to create real, scalable, and impact-driven solutions.  
-I work on building dashboards, data pipelines, automated workflows, analytical models, and system integrations — always aiming to improve processes, reduce rework, and support decision-making with reliable data.
+I am a Data Analyst with a background in Control and Automation Engineering, focused on transforming data into actionable insights that support business decision-making.
 
-I have hands-on experience both in critical industrial environments and in tech startups, which gave me business awareness, agility, and the ability to deliver consistent results.
+I have hands-on experience working with Power BI, SQL, and Python to build dashboards, perform data analysis, and develop ETL processes. My work involves structuring data models, automating workflows, and integrating multiple data sources to improve efficiency and reliability.
 
-## 🚀 What I Do
+I also bring experience from industrial environments and business operations, allowing me to understand real-world problems and translate them into data-driven solutions.
 
-✔️ **Exploratory analysis, data modeling, and transformation**  
-✔️ **Dashboard and KPI development (Power BI, Looker Studio)**  
-✔️ **ETL development and automation (Python, APIs, Power Automate)**  
-✔️ **Systems, databases, and pipeline integrations**  
-✔️ **Practical AI applications for productivity, insights, and optimization**  
-✔️ **Internal app development with Power Apps**  
-✔️ **Technical documentation and results communication**
+📌 I am currently seeking opportunities as a Data Analyst / BI Analyst.
+
+---
+
+## 🚀 Core Skills
+
+✔️ Exploratory data analysis, data modeling, and transformation  
+✔️ Dashboard and KPI development (Power BI)  
+✔️ ETL processes and data automation (Python, SQL)  
+✔️ Data integration from APIs and databases  
+✔️ Business-oriented analysis and data storytelling  
+✔️ Process automation (Power Automate)  
+
+---
 
 ## 🛠 Tech Stack
 
-### **Programming & Data**
-- **Python** (Pandas, NumPy, Requests, Matplotlib, Plotly)  
-- **SQL** (data modeling, queries, normalization)  
-- **APIs, ETL, and automation**
+### Programming & Data
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL (queries, joins, data modeling)  
+- ETL and data processing  
 
-### **Business Intelligence**
-- **Power BI** (DAX, Power Query)  
-- **Looker Studio**  
-- **Data storytelling and KPI design**
+### Business Intelligence
+- Power BI (DAX, Power Query, dashboards)  
 
-### **Automation & Integrations**
-- **Power Automate**  
-- **Power Apps**  
-- **RPA**  
-- **Git and version control**  
-- **Advanced Excel**
+### Automation & Tools
+- Power Automate  
+- Excel (Advanced)  
+- Git  
 
-### **Cloud & Infrastructure**
-- **Oracle Cloud OCI**  
-- **Supabase / Neon**  
-- **Basic CI/CD**
+---
 
 ## 🧪 Practical Experience
 
-### 🔹 Data Analytics – Cargill (Industrial / On-Site)
+### 🔹 Data Analyst – Cargill (Industrial Environment)
 
-Development of operational dashboards, industrial efficiency analyses, workflow automation, and digitization of critical processes using Power Platform.
+Developed data solutions to support operational decision-making, focusing on dashboards, process automation, and industrial performance analysis.
 
-**Key Deliveries:**
-- Dashboards for boilers, chemicals, waste, and performance  
-- Operational apps for checklists, inventory, and equipment registration  
-- Automated reporting and KPI consolidation  
-- Monthly data presentations to leadership
+**Key Contributions:**
+- Built Power BI dashboards for monitoring operational KPIs (boilers, chemicals, waste, performance)  
+- Developed Power Apps solutions for checklists, inventory control, and equipment management  
+- Automated data collection and reporting processes, reducing manual work  
+- Consolidated KPIs and supported monthly performance analysis for leadership  
 
-### 🔹 Researcher – LASEC / UFU (Automation & Robotics)
+---
 
-Mathematical modeling, simulation, and inverse kinematics applied to industrial robots (UR5), using Python, MATLAB, CoppeliaSim, and Three.js.
+### 🔹 Data & Automation – eSolvere Tecnologia
 
-**Projects:**
-- Forward and inverse kinematics using numerical methods  
-- 3D simulation and computational validation  
-- Technical documentation in LaTeX
+Worked on data analysis and industrial automation, focusing on performance monitoring and data integration.
 
-### 🔹 eSolvere Tecnologia – Automation & Data
+**Key Contributions:**
+- Monitored and analyzed KPIs such as OEE, MTBF, and MTTR  
+- Developed dashboards for operational performance tracking  
+- Built automated data collection and integration solutions  
+- Supported digital transformation initiatives  
 
-Hybrid work involving hardware, software, and data.
+---
 
-**Activities:**
-- Monitoring of OEE, MTBF, and MTTR  
-- Performance dashboards  
-- Integrations and automatic data collection  
-- Support for industrial digitalization
+### 🔹 Researcher – LASEC / UFU
 
-## 🏅 Certifications (Oracle + Alura)
+Applied mathematical modeling and simulation techniques, strengthening analytical and problem-solving skills.
+
+---
+
+## 🏅 Certifications
 
 <div align="center">
-  <img src="data.png" width="200">
-  <img src="fusion.png" width="200">
-  <img src="multcloud.png" width="200">
-  <img src="oci_ia.png" width="200">
+  <img src="data.png" width="180">
+  <img src="fusion.png" width="180">
+  <img src="multcloud.png" width="180">
+  <img src="oci_ia.png" width="180">
 </div>
 
-50+ certifications, including:
+Relevant certifications in Data Analytics and Business Intelligence, including:
 
-- **Oracle Cloud**  
-- **Applied AI for Data**  
-- **Python Data Visualization**  
-- **SQL & Data Modeling**  
-- **Power BI & Analytics**
+- Oracle Cloud (OCI Foundations & AI)  
+- SQL and Data Modeling  
+- Power BI and Data Visualization  
+- Applied AI for Data Analysis  
 
-## 📊 Projects (Data, BI & Automation)
+📌 Additional certifications in Python, Data Analysis, and Automation (Alura & Oracle programs)
 
-- Full industrial efficiency dashboards (**Power BI**)  
-- Workflow automation with **Power Automate**  
-- Data pipelines and API integrations  
-- Operational applications using **Power Apps**  
-- Dashboards with **Python** (Matplotlib, Plotly)  
-- 3D simulation and robotics using **Python + CoppeliaSim**  
-- Web applications for portfolio using **Python / JS**
+---
 
-📌 **Full portfolio:** https://meu-portifolio-t6rv.onrender.com/
+## 📊 Featured Projects
+
+- Industrial performance dashboards using Power BI, focused on operational KPIs  
+- Workflow automation and reporting using Power Automate  
+- Data pipelines and API integrations for automated data collection  
+- Data analysis and visualization using Python (Pandas, Matplotlib)  
+
+📌 Full portfolio: https://meu-portifolio-t6rv.onrender.com/
+
+---
 
 ## 🤝 Let's Connect
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/samuel-henrique-lima-da-silva  
-🌐 **Portfolio:** https://meu-portifolio-t6rv.onrender.com/  
-✉️ **Email:** samuelhenrique10@hotmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/samuel-henrique-lima-da-silva  
+🌐 Portfolio: https://meu-portifolio-t6rv.onrender.com/  
+✉️ Email: samuelhenrique10@hotmail.com
